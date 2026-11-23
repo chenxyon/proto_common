@@ -1,0 +1,9 @@
+{
+  "name": "proto_common",
+  "version": "1.0.0",
+  "description": "Protocol common definitions and frame utilities",
+  "keywords": "protocol,frame,crc",
+  "repository": { "type": "git", "url": "https://github.com/chenxyon/proto_common.git" },
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
